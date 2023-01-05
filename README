@@ -1,6 +1,3 @@
-Samantha Glover, 702585275, sjglover
-Jillian Camp, 702588160, jillsue
-
 This program displays a color-encoded sexigesimal(binary) clock showing the time in two ways. One is by reading user input from stdin in HH:MM:SS format, military time. 
 The other way is by displaying the current time every second. 
 When the USR1 signal is received from another terminal window, the clock toggles to 12hr mode and reverses the colors of the white colons
